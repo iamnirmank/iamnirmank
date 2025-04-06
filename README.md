@@ -78,19 +78,16 @@
 ### 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=iamnirmank&theme=tokyonight&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=iamnirmank&theme=tokyo-night&area=true" />
 </p>
 
 ---
 
-<!-- Optional: If you use Wakatime, enable this section -->
-<!--
 ### ⌛ Weekly Coding Stats (via Wakatime)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=tokyonight" />
 </p>
--->
 
 ---
 
