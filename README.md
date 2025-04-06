@@ -12,9 +12,9 @@
 ### 🧠 About Me
 
 - 🧑‍💻 Former startup founder turned developer — led tech teams for 3+ years
-- 🔍 Passionate about **AI/ML**, **full-stack systems Specially Backend**, and **developer tools**
+- 🔍 Passionate about **AI/ML**, **full-stack systems (especially backend)**, and **developer tools**
 - 🧪 Research Assistant working on LLM-based projects under the TXST CS Department
-- 🛠️ Currently building: LLM Based Specialized apps, and RAG-powered apps
+- 🛠️ Currently building: LLM-based specialized apps, and RAG-powered platforms
 - 🌐 Portfolio: [nirmankhadka.com.np](https://nirmankhadka.com.np)
 
 ---
@@ -60,9 +60,37 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamnirmank&show_icons=true&theme=tokyonight" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=iamnirmank&theme=tokyonight" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamnirmank&show_icons=true&theme=tokyonight" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iamnirmank&theme=tokyonight" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnirmank&layout=compact&theme=tokyonight" width="400" />
 </p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iamnirmank&theme=tokyonight&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+### 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=iamnirmank&theme=tokyonight&area=true&hide_border=true" />
+</p>
+
+---
+
+<!-- Optional: If you use Wakatime, enable this section -->
+<!--
+### ⌛ Weekly Coding Stats (via Wakatime)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=tokyonight" />
+</p>
+-->
 
 ---
 
