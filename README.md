@@ -15,7 +15,7 @@
 - 🔍 Passionate about **AI/ML**, **full-stack systems (especially backend)**, and **developer tools**
 - 🧪 Research Assistant working on LLM-based projects under the TXST CS Department
 - 🛠️ Currently building: LLM-based specialized apps, and RAG-powered platforms
-- 🌐 Checkout my new github: [bugsnbytecoder]([https://nirmankhadka.com.np](https://github.com/bugsnbytecoder))
+- 🌐 Checkout my new github: [bugsnbytecoder](https://github.com/bugsnbytecoder)
 
 ---
 
